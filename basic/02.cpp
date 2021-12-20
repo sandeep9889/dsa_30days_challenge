@@ -13,4 +13,6 @@ int main(){
      cout<<b1<<endl;
      int size = sizeof(a);
      cout<< "size of a:" <<size<< endl;
+     int Z = -122;
+     cout<<Z<<endl;
 };
